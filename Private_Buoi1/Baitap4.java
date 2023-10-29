@@ -6,8 +6,10 @@ public class Baitap4 {
 
         System.out.println("\nNhap vao so thu nhat: ");
         int a = scanner.nextInt();
+
         System.out.println("\nNhap vao so thu hai: ");
         int b = scanner.nextInt();
+
         System.out.println("\nNhap vao dau: ");
         char c = scanner.next().charAt(0);
 
