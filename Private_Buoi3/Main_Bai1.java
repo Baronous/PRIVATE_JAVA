@@ -2,7 +2,7 @@ package Private_Buoi3;
 import java.util.Scanner;
 public class Main_Bai1 {
 
-    //HUHUHU <(.)>U<(.)>
+    //HUHUHU 
     //-------------------
     private static Scanner scanner = new Scanner(System.in);
     public static Baitap1[] vegetables = new Baitap1[100];
